@@ -1,0 +1,21 @@
+<div class = "a">                              #div: structure     class
+      <h1>Title1</h1>                          #title from 1 to 6
+      <p>Words in it</p>                       #words 
+      <ul>                                     #unorganizition list
+            <li>
+                  <img src="somewhere" width="num" height="num">
+                  <h3>title2</h3>
+                  <p>say something</p>
+            </li>                  #list
+                       <li>
+                  <img src="somewhere" width="num" height="num">
+                  <h3>title2</h3>
+                  <p>say something</p>
+            </li>           <li>
+                  <img src="somewhere" width="num" height="num">
+                  <h3>title2</h3>
+                  <p>say something</p>
+            </li>
+      </ul>      
+<a href = "">           #links
+</div>
